@@ -1,0 +1,8 @@
+
+\.vs/
+node_modules/
+bin/
+obj/
+wwwroot/
+*.csproj.user
+*.feature.cs
